@@ -7,38 +7,9 @@
     ],
   "spec": 2,
     "semanticColors": {
-        "HEADER_PRIMARY": [
-        
-            "#FFFFFF",
-            "#FFFFFF"
-        ],
-        "HEADER_SECONDARY": [
-            "#FFFFFF",
-            "#FFFFFF"
-        ],
-        "LOGO_PRIMARY": [
-            "#7289DA",
-            "#7289DA"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#23272A",
-            "#23272A"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#23272A",
-            "#2C2F33"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#23272A",
-            "#2C2F33"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#23272A",
-            "#2C2F33"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#23272A",
-            "#2C2F33"
-        ]
+    "CHANNELS_DEFAULT": [
+        "#7289DA",
+        "#7289DA"
+    ]
     }
 }
