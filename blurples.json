@@ -2,7 +2,7 @@
   "name": "AmoledOrthinanosTurquoise",
   "description": "Amoled Turquoise revamp of my BetterDiscord theme.",
   "version": "1.2",
-  "color": "#7289DA",
+  "color": "#8bf5f7",
   "authors": [
     {
       "name": "Rosie",
@@ -31,7 +31,7 @@
       "#4f5660"
     ],
     "INTERACTIVE_HOVER": [
-      "#dcddde",
+      "#7289DA",
       "#2e3338"
     ],
     "INTERACTIVE_ACTIVE": [
@@ -123,12 +123,37 @@
       "#6a7480"
     ],
     "TEXT_LINK": [
-      "#8bf5f7",
+      "#7289DA",
       "#000000"
     ],
     "KEYBOARD": [
       "#000000",
       "#FFFFFF"
     ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_400": "#7289DA",
+    "PRIMARY_DARK_500": "#7289DA",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#16171a",
+    "PRIMARY_DARK_700": "#101010",
+    "PRIMARY_DARK_800": "#0b0d0c",
+    "BRAND_NEW": "#7289DA",
+    "BRAND_500": "#7289DA",
+    "STATUS_RED": "#7289DA",
+    "STATUS_GREEN_600": "#7289DA"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/644828337881088003/1183515498441343198/amoledorthinanosbg.png",
+    "alpha": 1.0
   }
 }
