@@ -7,21 +7,9 @@
     ],
   "spec": 2,
     "semanticColors": {
-        "INTERACTIVE_NORMAL": [
+        "LOGO_PRIMARY": [
             "#7289DA",
             "#7289DA"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#7289DA",
-            "#7289DA"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#7289DA",
-            "#7289DA"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#F23F42",
-            "#F23F42"
         ],
         "BACKGROUND_PRIMARY": [
             "#2C2F33",
