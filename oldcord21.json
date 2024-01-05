@@ -1,0 +1,109 @@
+{
+    "name": "OldCord",
+    "description": "Reverts the 2021 rebrand of Discord!",
+    "version": "1.0",
+    "color": "#7289DA",
+    "authors": [
+        {
+            "name": "Krocord",
+            "id": "365725862810877963"
+        }
+    ],
+    "spec": 2,
+    "theme_color_map": {
+        "HEADER_PRIMARY": [
+            "#f1f1f1",
+            "#FFFFFF"
+          ],
+          "HEADER_SECONDARY": [
+            "#c8c8c8",
+            "#FFFFFF"
+          ],
+          "TEXT_NORMAL": [
+            "#FBFBFB",
+            "#FFFFFF"
+          ],
+          "TEXT_MUTED": [
+            "#b1b1b1",
+            "#FFFFFF"
+          ],
+          "INTERACTIVE_NORMAL": [
+            "#7289DA",
+            "#FFFFFF"
+          ],
+          "INTERACTIVE_HOVER": [
+            "#7289DA",
+            "#FFFFFF"
+          ],
+          "INTERACTIVE_ACTIVE": [
+            "#7289DA",
+            "#FFFFFF"
+          ],
+          "INTERACTIVE_MUTED": [
+            "#7289DA",
+            "#FFFFFF"
+          ],
+          "BACKGROUND_PRIMARY": [
+            "#36393F",
+            "#FFFFFF"
+          ],
+          "SCROLLBAR_THIN_THUMB": [
+            "#631747",
+            "#FFFFFF"
+          ],
+          "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "#FFFFFF"
+          ],
+          "SCROLLBAR_AUTO_THUMB": [
+            "#631747",
+            "#FFFFFF"
+          ],
+          "SCROLLBAR_AUTO_TRACK": [
+            "rgba(0, 0, 0, 0.1)",
+            "#FFFFFF"
+          ],
+          "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111",
+            "#FFFFFF"
+          ],
+          "CHANNELS_DEFAULT": [
+            "#c8c8c8",
+            "#FFFFFF"
+          ],
+          "TEXT_LINK": [
+            "#7289DA",
+            "#FFFFFF"
+          ],
+          "KEYBOARD": [
+            "#000000",
+            "#FFFFFF"
+          ]
+        },
+        "colours": {
+          "PRIMARY_DARK": "#747474",
+          "PRIMARY_DARK_100": "#FFFFFF",
+          "PRIMARY_DARK_200": "#FFFFFF",
+          "PRIMARY_DARK_300": "#B6B6B6",
+          "PRIMARY_DARK_360": "#C8C8C8",
+          "PRIMARY_DARK_400": "#7289DA",
+          "PRIMARY_DARK_500": "#7289DA",
+          "PRIMARY_DARK_600": "#000000",
+          "PRIMARY_DARK_630": "#16171a",
+          "PRIMARY_DARK_700": "#101010",
+          "PRIMARY_DARK_800": "#0b0d0c",
+          "BRAND_NEW": "#7289DA",
+          "BRAND_500": "#7289DA",
+          "STATUS_RED": "#7289DA",
+          "STATUS_GREEN_600": "#7289DA"
+        },
+        "unsafe_colors": {
+          "CHAT_GREY": "#000000"
+        },
+        "background": {
+          "blur": 0.1,
+          "url": "https://cdn.discordapp.com/attachments/644828337881088003/1183515498441343198/amoledorthinanosbg.png",
+          "alpha": 1.0
+        }
+      }
+
