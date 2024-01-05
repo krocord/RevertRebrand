@@ -78,13 +78,5 @@
     "BRAND_500": "#7289DA",
     "STATUS_RED": "#7289DA",
     "STATUS_GREEN_600": "#7289DA"
-  },
-  "unsafe_colors": {
-    "CHAT_GREY": "#000000"
-  },
-  "background": {
-    "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/644828337881088003/1183515498441343198/amoledorthinanosbg.png",
-    "alpha": 1.0
   }
 }
