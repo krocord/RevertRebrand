@@ -46,58 +46,6 @@
       "#36393F",
       "##202225"
     ],
-    "BACKGROUND_SECONDARY": [
-      "#36393F",
-      "##202225"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#36393F",
-      "##202225"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#000000",
-      "#e3e5e8"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#000000",
-      "#747f8d"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#000000",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#0b0d0c",
-      "#f8f9f9"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#0b0d0c",
-      "#ffffff"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
-      "hsla(214, 9.9%, 50.4%, 0.08)"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 255, 255, 0.03)",
-      "hsla(214, 9.9%, 50.4%, 0.16)"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 255, 255, 0.04)",
-      "hsla(214, 9.9%, 50.4%, 0.24)"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
-      "hsla(240, 7.7%, 2.5%, 0.08)"
-    ],
     "SCROLLBAR_THIN_THUMB": [
       "#631747",
       "hsla(217, 7.6%, 33.5%, 0.3)"
