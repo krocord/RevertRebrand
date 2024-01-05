@@ -12,7 +12,7 @@
   "theme_color_map": {
     "HEADER_PRIMARY": [
       "#f1f1f1",
-      "#2F3035"
+      "#292B2E"
     ],
     "HEADER_SECONDARY": [
       "#c8c8c8",
@@ -91,13 +91,5 @@
     "BRAND_500": "#7289DA",
     "STATUS_RED": "#7289DA",
     "STATUS_GREEN_600": "#7289DA"
-  },
-  "unsafe_colors": {
-    "CHAT_GREY": "#000000"
-  },
-  "background": {
-    "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/644828337881088003/1183515498441343198/amoledorthinanosbg.png",
-    "alpha": 1.0
   }
-}
+  }
