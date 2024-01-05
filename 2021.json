@@ -12,5 +12,29 @@
             "#7289DA",
             "#7289DA"
         ]
+    },
+        "rawColors": {
+            "PRIMARY_DARK": "#4d4463",
+            "PRIMARY_100": "#d8c28f",
+            "PRIMARY_200": "#d8c28f",
+            "PRIMARY_300": "#B6B6B6",
+            "PRIMARY_360": "#4d4463",
+            "PRIMARY_400": "#A9966A",
+            "PRIMARY_500": "#d8c28f",
+            "PRIMARY_600": "#161519",
+            "PRIMARY_630": "#282237",
+            "PRIMARY_660": "#111013",
+            "PRIMARY_700": "#161519",
+            "PRIMARY_800": "#161519",
+            "BRAND_260": "#615778",
+            "BRAND_360": "#504863",
+            "BRAND_500": "#625682",
+            "BRAND_560": "#d8c28f",
+            "BRAND_900": "#4d4463",
+            "BRAND_NEW": "#7289DA",
+            "YELLOW_300": "#8072A1",
+            "GREEN_360": "#d8c28f",
+            "DANGER": "#625682",
+            "RED_400": "#a297c3"
+            }
     }
-}
