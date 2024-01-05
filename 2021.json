@@ -10,23 +10,36 @@
     }
   ],
   "theme_color_map": {
-    "theme_color_map": {
-        "HEADER_PRIMARY": [
-          "#f1f1f1",
-          "#060607"
-        ],
-        "HEADER_SECONDARY": [
-          "#c8c8c8",
-          "#4f5660"
-        ],
-        "TEXT_NORMAL": [
-          "#FBFBFB",
-          "#2e3338"
-        ],
-        "TEXT_MUTED": [
-          "#b1b1b1",
-          "#747f8d"
-        ]
-    }
+    "SCROLLBAR_THIN_THUMB": [
+        "#631747",
+        "hsla(217, 7.6%, 33.5%, 0.3)"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+        "transparent",
+        "hsla(0, 0%, 0%, 0)"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+        "#631747",
+        "#cccccc"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+        "rgba(0, 0, 0, 0.1)",
+        "#f2f2f2"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+        "#111111",
+        "#ebedef"
+      ],
+      "CHANNELS_DEFAULT": [
+        "#c8c8c8",
+        "#6a7480"
+      ],
+      "TEXT_LINK": [
+        "#8bf5f7",
+        "#000000"
+      ],
+      "KEYBOARD": [
+        "#000000",
+        "#FFFFFF"]
 }
 }
