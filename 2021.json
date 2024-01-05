@@ -7,12 +7,9 @@
     ],
   "spec": 2,
         "rawColors": {
-            "PRIMARY_400": "#7289DA",
-            "PRIMARY_500": "#7289DA",
-            "PRIMARY_600": "#7289DA",
-            "PRIMARY_630": "#7289DA",
-            "PRIMARY_660": "#7289DA",
-            "PRIMARY_700": "#7289DA",
-            "PRIMARY_800": "#7289DA"
+            "PRIMARY_100": "#7289DA",
+            "PRIMARY_200": "#7289DA",
+            "PRIMARY_300": "#7289DA",
+            "PRIMARY_360": "#7289DA"
             }
     }
