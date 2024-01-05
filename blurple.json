@@ -1,0 +1,19 @@
+{
+    "name": "Blurple!",
+    "description": "Reverts the 2021 discordapp design",
+    "authors": [
+        {
+            "name": "Krocord",
+            "id": "365725862810877963"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+        
+            "#7289DA",
+            "#FFFFFF"
+        ]
+    }
+
+}
