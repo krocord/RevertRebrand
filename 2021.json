@@ -1,0 +1,47 @@
+{
+    "name": "Kroldcord",
+    "authors": [
+        {
+            "name": "Krocord"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "INTERACTIVE_NORMAL": [
+            "#7289DA",
+            "#7289DA"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#7289DA",
+            "#7289DA"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#7289DA",
+            "#7289DA"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#F23F42",
+            "#F23F42"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#2C2F33",
+            "#2C2F33"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2C2F33",
+            "#2C2F33"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2C2F33",
+            "#2C2F33"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#2C2F33",
+            "#2C2F33"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#2C2F33",
+            "#2C2F33"
+        ]
+    }
+}
