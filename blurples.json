@@ -42,10 +42,6 @@
       "#7289DA",
       "#c7ccd1"
     ],
-    "BACKGROUND_PRIMARY": [
-      "#36393F",
-      "##202225"
-    ],
     "SCROLLBAR_THIN_THUMB": [
       "#631747",
       "hsla(217, 7.6%, 33.5%, 0.3)"
@@ -73,24 +69,11 @@
     "TEXT_LINK": [
       "#7289DA",
       "#000000"
-    ],
-    "KEYBOARD": [
-      "#000000",
-      "#FFFFFF"
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#747474",
-    "PRIMARY_DARK_100": "#FFFFFF",
-    "PRIMARY_DARK_200": "#FFFFFF",
-    "PRIMARY_DARK_300": "#B6B6B6",
-    "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#7289DA",
     "PRIMARY_DARK_500": "#7289DA",
-    "PRIMARY_DARK_600": "#000000",
-    "PRIMARY_DARK_630": "#16171a",
-    "PRIMARY_DARK_700": "#101010",
-    "PRIMARY_DARK_800": "#0b0d0c",
     "BRAND_NEW": "#7289DA",
     "BRAND_500": "#7289DA",
     "STATUS_RED": "#7289DA",
