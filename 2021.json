@@ -7,10 +7,10 @@
     ],
   "spec": 2,
     "semanticColors": {
-        "HEADER_PRIMARY": [
+        "INTERACTIVE_NORMAL": [
         
-            "#68627C",
-            "#edd49b"
+            "#7289DA",
+            "#7289DA"
         ]
     }
 }
