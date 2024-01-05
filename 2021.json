@@ -7,7 +7,25 @@
     ],
   "spec": 2,
         "rawColors": {
+            "PRIMARY_DARK": "#23272A",
+            "PRIMARY_100": "#7289DA",
+            "PRIMARY_200": "#7289DA",
+            "PRIMARY_300": "#7289DA",
+            "PRIMARY_360": "#7289DA",
+            "PRIMARY_400": "#7289DA",
+            "PRIMARY_500": "#7289DA",
+            "PRIMARY_600": "#7289DA",
+            "PRIMARY_630": "#7289DA",
+            "PRIMARY_660": "#7289DA",
+            "PRIMARY_700": "#7289DA",
+            "PRIMARY_800": "#7289DA",
+            "BRAND_260": "#7289DA",
+            "BRAND_500": "#7289DA",
+            "BRAND_560": "#7289DA",
+            "BRAND_900": "#7289DA",
+            "YELLOW_300": "#7289DA",
             "GREEN_360": "#7289DA",
             "DANGER": "#7289DA",
+            "RED_400": "#7289DA"
             }
     }
