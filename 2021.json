@@ -6,13 +6,6 @@
         }
     ],
   "spec": 2,
-    "semanticColors": {
-        "INTERACTIVE_NORMAL": [
-        
-            "#7289DA",
-            "#7289DA"
-        ]
-    },
         "rawColors": {
             "PRIMARY_DARK": "#7289DA",
             "PRIMARY_100": "#7289DA",
@@ -29,10 +22,6 @@
             "BRAND_260": "#7289DA",
             "BRAND_500": "#7289DA",
             "BRAND_560": "#7289DA",
-            "BRAND_900": "#7289DA",
-            "YELLOW_300": "#7289DA",
-            "GREEN_360": "#7289DA",
-            "DANGER": "#7289DA",
-            "RED_400": "#7289DA"
+            "BRAND_900": "#7289DA"
             }
     }
