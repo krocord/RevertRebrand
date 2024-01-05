@@ -10,85 +10,23 @@
     }
   ],
   "theme_color_map": {
-    "INTERACTIVE_NORMAL": [
-      "#63b7ba",
-      "#4f5660"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#dcddde",
-      "#2e3338"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#8bf5f7",
-      "#060607"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#b9f9ff",
-      "#c7ccd1"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#000000",
-      "#f2f3f5"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#0b0d0c",
-      "#ebedef"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#000000",
-      "#e3e5e8"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#000000",
-      "#747f8d"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#000000",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#0b0d0c",
-      "#f8f9f9"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#0b0d0c",
-      "#ffffff"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
-      "hsla(214, 9.9%, 50.4%, 0.08)"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 255, 255, 0.03)",
-      "hsla(214, 9.9%, 50.4%, 0.16)"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 255, 255, 0.04)",
-      "hsla(214, 9.9%, 50.4%, 0.24)"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
-      "hsla(240, 7.7%, 2.5%, 0.08)"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#111111",
-      "#ebedef"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#c8c8c8",
-      "#6a7480"
-    ]
-  }
+    "theme_color_map": {
+        "HEADER_PRIMARY": [
+          "#f1f1f1",
+          "#060607"
+        ],
+        "HEADER_SECONDARY": [
+          "#c8c8c8",
+          "#4f5660"
+        ],
+        "TEXT_NORMAL": [
+          "#FBFBFB",
+          "#2e3338"
+        ],
+        "TEXT_MUTED": [
+          "#b1b1b1",
+          "#747f8d"
+        ]
+    }
+}
 }
