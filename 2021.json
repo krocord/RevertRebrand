@@ -7,6 +7,15 @@
     ],
   "spec": 2,
     "semanticColors": {
+        "HEADER_PRIMARY": [
+        
+            "#68627C",
+            "#edd49b"
+        ],
+        "HEADER_SECONDARY": [
+            "#7289DA",
+            "#FFFFFF"
+        ],
         "LOGO_PRIMARY": [
             "#7289DA",
             "#7289DA"
