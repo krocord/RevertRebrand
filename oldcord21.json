@@ -28,7 +28,7 @@
             "#FFFFFF"
           ],
           "INTERACTIVE_NORMAL": [
-            "#7289DA",
+            "#99AAB5",
             "#FFFFFF"
           ],
           "INTERACTIVE_HOVER": [
@@ -36,7 +36,7 @@
             "#FFFFFF"
           ],
           "INTERACTIVE_ACTIVE": [
-            "#7289DA",
+            "#FFFFFF",
             "#FFFFFF"
           ],
           "INTERACTIVE_MUTED": [
@@ -72,7 +72,7 @@
             "#FFFFFF"
           ],
           "TEXT_LINK": [
-            "#7289DA",
+            "#317FF0",
             "#FFFFFF"
           ],
           "KEYBOARD": [
