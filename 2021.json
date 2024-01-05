@@ -7,7 +7,7 @@
     ],
   "spec": 2,
         "rawColors": {
-            "BRAND_900": "#7289DA",
-            "YELLOW_300": "#7289DA"
+            "GREEN_360": "#7289DA",
+            "DANGER": "#7289DA",
             }
     }
