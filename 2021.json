@@ -7,9 +7,10 @@
     ],
   "spec": 2,
     "semanticColors": {
-    "CHANNELS_DEFAULT": [
-        "#7289DA",
-        "#7289DA"
-    ]
+        "HEADER_PRIMARY": [
+        
+            "#68627C",
+            "#edd49b"
+        ]
     }
 }
