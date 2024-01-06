@@ -79,9 +79,9 @@
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#2F3136",
+      "#0a4cad",
       "#FFFFFF"
-    ], /*this the thingy that you was lookin for*/
+    ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#2F3136",
       "hsla(214, 9.9%, 50.4%, 0.08)"
