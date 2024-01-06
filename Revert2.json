@@ -1,7 +1,7 @@
 {
   "name": "Backup Rebrand",
   "description": "Developement assdfsdf never will be finished just a place where i brainstorm",
-  "version": "1.56",
+  "version": "1.57",
   "color": "#7289DA",
   "authors": [
     {
@@ -75,7 +75,7 @@
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#0a4cad",
+      "#2F3136",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
