@@ -1,7 +1,7 @@
 {
   "name": "Backup Rebrand",
-  "description": "backupfile",
-  "version": "1.3",
+  "description": "Developement never will be finished just a place where i brainstorm",
+  "version": "1.56",
   "color": "#7289DA",
   "authors": [
     {
@@ -51,7 +51,7 @@
       "#202225"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#2F3136",
+      "#0a4cad",
       "#202225"
     ],
     "BACKGROUND_TERTIARY": [
