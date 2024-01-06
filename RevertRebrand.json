@@ -55,7 +55,7 @@
       "#202225"
     ],
     "BACKGROUND_TERTIARY": [
-      "#36393F",
+      "#202225",
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
@@ -145,6 +145,6 @@
     "STATUS_GREEN_600": "#7289DA"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#181A1E"
+    "CHAT_GREY": "#18191C"
   }
 }
