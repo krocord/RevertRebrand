@@ -55,7 +55,7 @@
       "#202225"
     ],
     "BACKGROUND_TERTIARY": [
-      "#2F3136",
+      "#202225",
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
@@ -123,7 +123,7 @@
       "#6a7480"
     ],
     "TEXT_LINK": [
-      "#278FFC",
+      "#7289DA",
       "#000000"
     ]
   },
@@ -135,9 +135,9 @@
     "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#7289DA",
     "PRIMARY_DARK_500": "#7289DA",
-    "PRIMARY_DARK_600": "#303136",
+    "PRIMARY_DARK_600": "#000000",
     "PRIMARY_DARK_630": "#16171a",
-    "PRIMARY_DARK_700": "#212226",
+    "PRIMARY_DARK_700": "#2A2B2F",
     "PRIMARY_DARK_800": "#2F3136",
     "BRAND_NEW": "#7289DA",
     "BRAND_500": "#7289DA",
