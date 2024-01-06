@@ -142,7 +142,7 @@
     "BRAND_NEW": "#7289DA",
     "BRAND_500": "#7289DA",
     "STATUS_RED": "#7289DA",
-    "STATUS_GREEN_600": "#7289DA"
+    "STATUS_GREEN_600": "#43B683"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#18191C"
